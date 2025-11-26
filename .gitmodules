@@ -1,0 +1,6 @@
+[submodule "keycloak-pkec-auth"]
+	path = keycloak-pkec-auth
+	url = https://github.com/huzaifaali14/keycloak-pkec-auth.git
+[submodule "keycloak-implicit-auth"]
+	path = keycloak-implicit-auth
+	url = https://github.com/huzaifaali14/keycloak-implicit-auth.git
